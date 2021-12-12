@@ -1,2 +1,2 @@
-# basic_calc_js
-basic calculator app using javascript
+# Calculator JS
+This is basic calculator coded in JavaScript to practice my JS skills
